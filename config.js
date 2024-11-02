@@ -75,9 +75,9 @@ module.exports = {
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
   author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "Mr Joker",
+  packname: process.env.PACK_NAME || "Mr_Joker",
   botname : process.env.BOT_NAME  || "Suhail-XMD",
-  ownername:process.env.OWNER_NAME|| "Mr Joker",
+  ownername:process.env.OWNER_NAME|| "Mr_Joker",
 
 
   errorChat : process.env.ERROR_CHAT || "",
